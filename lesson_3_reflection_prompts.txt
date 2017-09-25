@@ -6,17 +6,17 @@ Best to use a remote repository when collaborating with several people or when w
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Because we probably don't always want changes comming in during an intermediate phase of our work and may change the files we are working on.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+The difference between fork and clone is that forks are a GitHub functionality that works similar to cloning but with additional functionality; branching works on commits and not the entire repository.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+We can traverse history easily without the need of having to connect to the remote everytime we need access to the logs
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
