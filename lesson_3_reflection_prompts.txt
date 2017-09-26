@@ -21,9 +21,9 @@ We can traverse history easily without the need of having to connect to the remo
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I would probably use another version control system like SVN or Mercurial. I don't think it would be easier or harder its just a matter of adjusting to a different workflow.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Everytime we are working in a new feature or defect we would want to work in a separate branch. Befenits to each approach is branching we can have different layers of a working environment vs in a master branch we don't have to worry about things like merge conflicts.
